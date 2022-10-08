@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JetpackCompose</string>
+    <string name="title_activity_rows_columns_and_basic_sizing">RowsColumnsAndBasicSizingActivity
+    </string>
+    <string name="title_activity_modifiers">ModifiersActivity</string>
+    <string name="title_activity_part4_image_card">Part4ImageCard</string>
+    <string name="title_activity_part5_styling_text">Part5StylingTextActivity</string>
+    <string name="title_activity_part6_state">Part6State</string>
+    <string name="title_activity_part7_textfields_buttons_and_snackbars">
+        Part7TextfieldsButtonsAndSnackbarsActivity
+    </string>
+    <string name="title_activity_part8_lists">Part8ListsActivity</string>
+    <string name="title_activity_part9_constraint_layout">Part9ConstraintLayoutActivity</string>
+    <string name="title_activity_part10_side_effects_and_effect_handlers">
+        Part10SideEffectsAndEffectHandlersActivity
+    </string>
+    <string name="title_activity_part11_simple_animations">Part11SimpleAnimationsActivity</string>
+</resources>
